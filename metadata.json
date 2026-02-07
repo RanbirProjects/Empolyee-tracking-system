@@ -1,0 +1,9 @@
+
+{
+  "name": "NexusHR - Modern Employee Suite",
+  "description": "A high-performance employee dashboard for tracking attendance, leaves, tasks, and salary insights with AI-powered performance analysis and field tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
